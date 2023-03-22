@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "8799983d9f52ba607697d8d22a67facb",
+    "packages": [
+        {
+            "name": "eloquent/lcs",
+            "version": "2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/eloquent/php-lcs.git",
+                "reference": "9381d6e57b7fadef4e9a90ce1b1e2b04e05a2d06"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/eloquent/php-lcs/zipball/9381d6e57b7fadef4e9a90ce1b1e2b04e05a2d06",
+                "reference": "9381d6e57b7fadef4e9a90ce1b1e2b04e05a2d06",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "icecave/archer": "~1"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Eloquent\\Lcs\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Erin Millard",
+                    "email": "ezzatron@gmail.com",
+                    "homepage": "http://ezzatron.com/"
+                }
+            ],
+            "description": "An implementation of the 'longest common subsequence' algorithm for PHP.",
+            "homepage": "https://github.com/eloquent/php-lcs",
+            "keywords": [
+                "Algorithm",
+                "common",
+                "diff",
+                "longest",
+                "sequence",
+                "subsequence"
+            ],
+            "support": {
+                "issues": "https://github.com/eloquent/php-lcs/issues",
+                "source": "https://github.com/eloquent/php-lcs/tree/master"
+            },
+            "time": "2014-02-17T06:24:14+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

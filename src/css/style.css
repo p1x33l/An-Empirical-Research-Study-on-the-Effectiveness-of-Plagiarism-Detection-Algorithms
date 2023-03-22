@@ -1,0 +1,13 @@
+.pxl_page {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+}
+textarea { 
+    resize: none;
+}
+.navbar-nav{
+    text-align: right;
+    float: right;
+}
