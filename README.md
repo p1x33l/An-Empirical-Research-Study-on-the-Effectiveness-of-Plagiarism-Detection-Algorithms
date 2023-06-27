@@ -23,6 +23,14 @@ The project also uses various preprocessing techniques, including normalization,
 
 The project is written using PHP, JS, Bootstrap, HTML5, CSS3, SQL.
 
+### Requirements
+- Lemmatizer : https://github.com/writecrow/lemmatizer
+- PHP-ML : https://php-ml.readthedocs.io/en/latest
+- PHP-LCS : https://packagist.org/packages/eloquent/lcs
+- NLP-Tools : http://php-nlp-tools.com/documentation/
+- php-stemmer : https://github.com/amaccis/php-stemmer
+
+
 ## Project Structure
 
 This repository contains the report and source code for the project, along with the database file. The report is organized into five chapters, covering introduction and context, preprocessing, similarity calculation algorithms, user interface design, implementation, experimentation, and discussion.
